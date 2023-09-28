@@ -1,0 +1,15 @@
+g58444\boulderdash\MainFx.class
+g58444\boulderdash\model\test\PlayerTest.class
+g58444\boulderdash\model\elements\Wall.class
+g58444\boulderdash\model\test\PositionTest.class
+g58444\boulderdash\controller\FxController$1.class
+g58444\boulderdash\view\BoardPane.class
+g58444\boulderdash\model\elements\Rock.class
+g58444\boulderdash\model\test\LevelTest.class
+g58444\boulderdash\model\elements\Diamond.class
+g58444\boulderdash\view\ScorePane.class
+g58444\boulderdash\model\elements\Door.class
+g58444\boulderdash\model\test\BoardTest.class
+g58444\boulderdash\model\commands\MoveCommand.class
+g58444\boulderdash\model\elements\Dirt.class
+g58444\boulderdash\model\elements\Player.class
